@@ -1,17 +1,1 @@
-# musicplayer
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# musicplayer
+This app is a music player for macOS(and ios,android,linux,windows) using flutter,this picks mp3 files. from platform files and plays it,I built it because for apple music we have to pay for just playing our downloaded music also!!!!!! problem solved😁.
